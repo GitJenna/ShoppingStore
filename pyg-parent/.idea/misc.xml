@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-page-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-seckill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-seckill-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-task-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pyg-user-web" />
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sms/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/freemarkerDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-cart-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pyg-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pyg-search-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" project-jdk-name="9.0" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
